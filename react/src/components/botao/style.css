@@ -1,0 +1,16 @@
+.btn {
+  padding: 10px 30px;
+  border: none;
+  background: gray;
+  color: #fff;
+  font-weight: bold;
+  max-width: 120px;
+}
+
+.verde {
+  background: green;
+}
+
+.vermelho {
+  background: red;
+}
